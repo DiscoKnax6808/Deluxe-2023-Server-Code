@@ -1,0 +1,889 @@
+[
+  {
+    "ContainingType": "DeluxeNET.Controllers.NameServerController",
+    "Method": "NameServer",
+    "RelativePath": "",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "DeluxeNET.Models.ServerConfiguration.NameServerModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.accountController",
+    "Method": "getPlayerBio",
+    "RelativePath": "account/{playerid}/bio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "playerid",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.accountController",
+    "Method": "BulkAccountDetails",
+    "RelativePath": "account/bulk",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Collections.Generic.List\u00601[[System.Int64, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.accountController",
+    "Method": "getMyAccountDetails",
+    "RelativePath": "account/me",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.accountprivacysettingsController",
+    "Method": "getAccountPrivacy",
+    "RelativePath": "accountprivacysettings/{playerid}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "playerid",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.announcementsController",
+    "Method": "fjweiio",
+    "RelativePath": "announcements/v2/mine/unread",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.announcementsController",
+    "Method": "fjweiio",
+    "RelativePath": "announcements/v2/subscription/mine/unread",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.announcementController",
+    "Method": "v1g",
+    "RelativePath": "api/announcement/v1/get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.avatarController",
+    "Method": "getDefaultBaseItems",
+    "RelativePath": "api/avatar/v1/defaultbaseavataritems",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.avatarController",
+    "Method": "getDefaultUnlockedAvatarITems",
+    "RelativePath": "api/avatar/v1/defaultunlocked",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.avatarController",
+    "Method": "getMyAvatar",
+    "RelativePath": "api/avatar/v2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.avatarController",
+    "Method": "getGifts",
+    "RelativePath": "api/avatar/v2/gifts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.avatarController",
+    "Method": "setAvatar",
+    "RelativePath": "api/avatar/v2/set",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.avatarController",
+    "Method": "getsavedoutfits",
+    "RelativePath": "api/avatar/v3/saved",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.avatarController",
+    "Method": "getUnlockedAvatarItems",
+    "RelativePath": "api/avatar/v4/items",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.CampusCardController",
+    "Method": "getMySub",
+    "RelativePath": "api/CampusCard/v1/UpdateAndGetSubscription",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.checklistController",
+    "Method": "getMyStfehfowoji",
+    "RelativePath": "api/checklist/v1/current",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.communityboardController",
+    "Method": "getcb",
+    "RelativePath": "api/communityboard/v2/current",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.configController",
+    "Method": "getAllConf",
+    "RelativePath": "api/config/v1/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.configController",
+    "Method": "getAmpl",
+    "RelativePath": "api/config/v1/amplitude",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.configController",
+    "Method": "backtrace",
+    "RelativePath": "api/config/v1/backtrace",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.configController",
+    "Method": "getconfv2",
+    "RelativePath": "api/config/v2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.consumablesController",
+    "Method": "getUnlockedCons",
+    "RelativePath": "api/consumables/v2/getUnlocked",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.customAvatarItemsController",
+    "Method": "caf",
+    "RelativePath": "api/customAvatarItems/v1/isCreationAllowedForAccount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.customAvatarItemsController",
+    "Method": "ice",
+    "RelativePath": "api/customAvatarItems/v1/isCreationEnabled",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.customAvatarItemsController",
+    "Method": "ire",
+    "RelativePath": "api/customAvatarItems/v1/isRenderingEnabled",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.customAvatarItemsController",
+    "Method": "getCustomAvatarItemsFromCreator",
+    "RelativePath": "api/customAvatarItems/v2/fromcreator/{playerid}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "playerid",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.equipmentController",
+    "Method": "giwejigwioeg",
+    "RelativePath": "api/equipment/v2/getUnlocked",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.gameconfigsController",
+    "Method": "getAllConf",
+    "RelativePath": "api/gameconfigs/v1/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.gameconfigsController",
+    "Method": "getAmpl",
+    "RelativePath": "api/gameconfigs/v1/amplitude",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.gameconfigsController",
+    "Method": "backtrace",
+    "RelativePath": "api/gameconfigs/v1/backtrace",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.gameconfigsController",
+    "Method": "getconfv2",
+    "RelativePath": "api/gameconfigs/v2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.gamerewardsController",
+    "Method": "getpendingrewards",
+    "RelativePath": "api/gamerewards/v1/pending",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.inventionsController",
+    "Method": "getMyInvetions",
+    "RelativePath": "api/inventions/v2/mine",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.messagesController",
+    "Method": "getmessagesjieiogio",
+    "RelativePath": "api/messages/v2/get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.objectivesController",
+    "Method": "getMyProgress",
+    "RelativePath": "api/objectives/v1/myprogress",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.playereventsController",
+    "Method": "getCurrentEvents",
+    "RelativePath": "api/playerevents/v1/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.PlayerReportingController",
+    "Method": "hile",
+    "RelativePath": "api/PlayerReporting/v1/hile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.PlayerReportingController",
+    "Method": "modblockdetails",
+    "RelativePath": "api/PlayerReporting/v1/moderationBlockDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.PlayerReportingController",
+    "Method": "vtkr",
+    "RelativePath": "api/PlayerReporting/v1/voteToKickReasons",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.playerReputationController",
+    "Method": "getRepBulk",
+    "RelativePath": "api/playerReputation/v2/bulk",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Collections.Generic.List\u00601[[System.Int64, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.playersController",
+    "Method": "getprogressBulk",
+    "RelativePath": "api/players/v2/progression/bulk",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Collections.Generic.List\u00601[[System.Int64, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.progressionEventsController",
+    "Method": "getActiveProgressionEvents",
+    "RelativePath": "api/progressionEvents/active",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.quickPlayController",
+    "Method": "getandclear",
+    "RelativePath": "api/quickPlay/v1/getandclear",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.relationshipsController",
+    "Method": "getReplationshgnowroighwrohgo",
+    "RelativePath": "api/relationships/v2/get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.roomkeysController",
+    "Method": "iojgwig",
+    "RelativePath": "api/roomkeys/v1/mine",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.roomsController",
+    "Method": "GetFilters",
+    "RelativePath": "api/rooms/v1/filters",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.playersettingsController",
+    "Method": "getSettingsOLD",
+    "RelativePath": "api/settings/v2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.playersettingsController",
+    "Method": "setSettingOLD",
+    "RelativePath": "api/settings/v2/set",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.versioncheckController",
+    "Method": "checkVersion",
+    "RelativePath": "api/versioncheck/v4",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "v",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.cachedloginController",
+    "Method": "GetCachedLogins",
+    "RelativePath": "cachedlogin/forplatformid/{platform}/{platformid}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "platform",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "platformid",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.cdnserverController",
+    "Method": "getthestupideitiowetiewj",
+    "RelativePath": "cdnserver/config/LoadingScreenTipData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.connectController",
+    "Method": "genTokenByAuth",
+    "RelativePath": "connect/token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.dataController",
+    "Method": "getmypresnece",
+    "RelativePath": "data/heartbeat",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.eacController",
+    "Method": "getChal",
+    "RelativePath": "eac/challenge",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.econController",
+    "Method": "getMyOwnedCustomAvatarItems",
+    "RelativePath": "econ/customAvatarItems/v1/owned",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.matchmakeController",
+    "Method": "MatchmakeOLD",
+    "RelativePath": "goto/room/{room}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "room",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.matchmakeController",
+    "Method": "Matchmake",
+    "RelativePath": "matchmake/{room}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "room",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.matchmakeController",
+    "Method": "MatchmakeNone",
+    "RelativePath": "matchmake/none",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.parentalcontrolController",
+    "Method": "getMyParentalControlConf",
+    "RelativePath": "parentalcontrol/me",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.playerController",
+    "Method": "exlogin",
+    "RelativePath": "player/exclusivelogin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.playerController",
+    "Method": "getmypresnece",
+    "RelativePath": "player/heartbeat",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.playerController",
+    "Method": "loginUser",
+    "RelativePath": "player/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.playerController",
+    "Method": "prp",
+    "RelativePath": "player/photonregionpings",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.playerController",
+    "Method": "svs",
+    "RelativePath": "player/statusvisibility",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.playersettingsController",
+    "Method": "getSettings",
+    "RelativePath": "playersettings",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.playersettingsController",
+    "Method": "setSetting",
+    "RelativePath": "playersettings",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.matchmakeController",
+    "Method": "MatchmakeByName",
+    "RelativePath": "room/{roomid}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "roomid",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.roomserverController",
+    "Method": "getRoomDetails",
+    "RelativePath": "roomserver/rooms",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.roomserverController",
+    "Method": "getRoomDetailsByID",
+    "RelativePath": "roomserver/rooms/{roomid}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "roomid",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.roomserverController",
+    "Method": "getRoomDetailsBulkByRoomNames",
+    "RelativePath": "roomserver/rooms/bulk",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.roomserverController",
+    "Method": "getMyRoomsIMade",
+    "RelativePath": "roomserver/rooms/createdby/me",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.roomserverController",
+    "Method": "getRoomsthatAreHot",
+    "RelativePath": "roomserver/rooms/hot",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tag",
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "skip",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "take",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.roomserverController",
+    "Method": "getRoomsOwnedByID",
+    "RelativePath": "roomserver/rooms/ownedby/{playerid}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "playerid",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.roomserverController",
+    "Method": "visitroomsbyme",
+    "RelativePath": "roomserver/rooms/visitedby/me",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeluxeNET.Controllers.subscriptionController",
+    "Method": "subscribercpuntget",
+    "RelativePath": "subscription/subscriberCount/{playerid}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "playerid",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

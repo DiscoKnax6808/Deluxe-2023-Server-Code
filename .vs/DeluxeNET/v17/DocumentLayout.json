@@ -1,0 +1,959 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASPNET\\Projects\\DeluxeNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\connectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\connectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\security\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:security\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\models\\serverconfiguration\\nameservermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:models\\serverconfiguration\\nameservermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\matchmakecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\matchmakecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\data\\reputation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:data\\reputation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\data\\heartbeat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:data\\heartbeat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\playersettingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\playersettingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\eaccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\eaccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\gameconfigscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\gameconfigscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\avatarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\avatarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\jsons\\avataritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:jsons\\avataritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\jsons\\clothing.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:jsons\\clothing.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\roomservercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\roomservercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\customavataritemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\customavataritemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\parentalcontrolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\parentalcontrolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\data\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:data\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\subscriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\subscriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\progressioneventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\progressioneventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\accountprivacysettingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\accountprivacysettingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\inventionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\inventionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\cachedlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\cachedlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\quickplaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\quickplaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\cdnservercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\cdnservercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\announcementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\announcementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\jsons\\configv2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:jsons\\configv2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\announcementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\announcementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\roomkeyscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\roomkeyscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\gamerewardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\gamerewardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\campuscardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\campuscardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\playereventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\playereventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\communityboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\communityboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\jsons\\communityboard.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:jsons\\communityboard.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\equipmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\equipmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\consumablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\consumablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\playerreportingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\playerreportingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\econcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\econcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\data\\avatar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:data\\avatar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\checklistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\checklistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\objectivescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\objectivescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\data\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:data\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\playerreputationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\playerreputationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\data\\progression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:data\\progression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\relationshipscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\relationshipscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\data\\cachedlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:data\\cachedlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\nameservercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\nameservercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|d:\\aspnet\\projects\\deluxenet\\controllers\\versioncheckcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068B6CCA-C24E-437D-B7E0-6FD2E21847D5}|DeluxeNET.csproj|solutionrelative:controllers\\versioncheckcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "matchmakeController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\matchmakeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\matchmakeController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\matchmakeController.cs",
+              "RelativeToolTip": "Controllers\\matchmakeController.cs",
+              "ViewState": "AgIAACcBAAAAAAAAAAAwwFEBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T23:52:32.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "playersettingsController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\playersettingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\playersettingsController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\playersettingsController.cs",
+              "RelativeToolTip": "Controllers\\playersettingsController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAvwGgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T07:13:33.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Heartbeat.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Data\\Heartbeat.cs",
+              "RelativeDocumentMoniker": "Data\\Heartbeat.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Data\\Heartbeat.cs",
+              "RelativeToolTip": "Data\\Heartbeat.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAADwv0EAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T19:40:16.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "playerController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\playerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\playerController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\playerController.cs",
+              "RelativeToolTip": "Controllers\\playerController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwDEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T07:35:12.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "reputation.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Data\\reputation.cs",
+              "RelativeDocumentMoniker": "Data\\reputation.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Data\\reputation.cs",
+              "RelativeToolTip": "Data\\reputation.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA+wBEAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T07:46:14.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAiwDQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T21:08:29.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T19:46:47.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-19T19:33:25.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NameServerModel.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Models\\ServerConfiguration\\NameServerModel.cs",
+              "RelativeDocumentMoniker": "Models\\ServerConfiguration\\NameServerModel.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Models\\ServerConfiguration\\NameServerModel.cs",
+              "RelativeToolTip": "Models\\ServerConfiguration\\NameServerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T18:58:00.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "jwt.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Security\\jwt.cs",
+              "RelativeDocumentMoniker": "Security\\jwt.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Security\\jwt.cs",
+              "RelativeToolTip": "Security\\jwt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T23:34:52.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "connectController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\connectController.cs",
+              "RelativeDocumentMoniker": "Controllers\\connectController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\connectController.cs",
+              "RelativeToolTip": "Controllers\\connectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T23:56:37.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "customAvatarItemsController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\customAvatarItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\customAvatarItemsController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\customAvatarItemsController.cs",
+              "RelativeToolTip": "Controllers\\customAvatarItemsController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAIA9wCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T01:31:48.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "avatarController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\avatarController.cs",
+              "RelativeDocumentMoniker": "Controllers\\avatarController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\avatarController.cs",
+              "RelativeToolTip": "Controllers\\avatarController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAA+wF4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T22:13:01.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "configController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\configController.cs",
+              "RelativeDocumentMoniker": "Controllers\\configController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\configController.cs",
+              "RelativeToolTip": "Controllers\\configController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T20:44:30.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "eacController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\eacController.cs",
+              "RelativeDocumentMoniker": "Controllers\\eacController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\eacController.cs",
+              "RelativeToolTip": "Controllers\\eacController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T23:33:42.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-19T19:50:05.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "roomserverController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\roomserverController.cs",
+              "RelativeDocumentMoniker": "Controllers\\roomserverController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\roomserverController.cs",
+              "RelativeToolTip": "Controllers\\roomserverController.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAwwJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:46:45.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "gameconfigsController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\gameconfigsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\gameconfigsController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\gameconfigsController.cs",
+              "RelativeToolTip": "Controllers\\gameconfigsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T19:33:20.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "inventionsController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\inventionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\inventionsController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\inventionsController.cs",
+              "RelativeToolTip": "Controllers\\inventionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T21:26:24.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "roomsController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\roomsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\roomsController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\roomsController.cs",
+              "RelativeToolTip": "Controllers\\roomsController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T01:22:11.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "parentalcontrolController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\parentalcontrolController.cs",
+              "RelativeDocumentMoniker": "Controllers\\parentalcontrolController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\parentalcontrolController.cs",
+              "RelativeToolTip": "Controllers\\parentalcontrolController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:43:35.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "avatarItem.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Jsons\\avatarItem.cs",
+              "RelativeDocumentMoniker": "Jsons\\avatarItem.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Jsons\\avatarItem.cs",
+              "RelativeToolTip": "Jsons\\avatarItem.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA0wAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T15:04:30.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "clothing.json",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Jsons\\clothing.json",
+              "RelativeDocumentMoniker": "Jsons\\clothing.json",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Jsons\\clothing.json",
+              "RelativeToolTip": "Jsons\\clothing.json",
+              "ViewState": "AgIAALBfAAAAAAAAAAAQwLlfAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-25T15:00:42.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "dataController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\dataController.cs",
+              "RelativeDocumentMoniker": "Controllers\\dataController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\dataController.cs",
+              "RelativeToolTip": "Controllers\\dataController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T01:04:34.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "progressionEventsController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\progressionEventsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\progressionEventsController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\progressionEventsController.cs",
+              "RelativeToolTip": "Controllers\\progressionEventsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:25:51.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "accountController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\accountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\accountController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\accountController.cs",
+              "RelativeToolTip": "Controllers\\accountController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAawD0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T22:41:36.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "subscriptionController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\subscriptionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\subscriptionController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\subscriptionController.cs",
+              "RelativeToolTip": "Controllers\\subscriptionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:28:26.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "account.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Data\\account.cs",
+              "RelativeDocumentMoniker": "Data\\account.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Data\\account.cs",
+              "RelativeToolTip": "Data\\account.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwA4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T22:43:49.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "quickPlayController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\quickPlayController.cs",
+              "RelativeDocumentMoniker": "Controllers\\quickPlayController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\quickPlayController.cs",
+              "RelativeToolTip": "Controllers\\quickPlayController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:32:36.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "accountprivacysettingsController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\accountprivacysettingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\accountprivacysettingsController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\accountprivacysettingsController.cs",
+              "RelativeToolTip": "Controllers\\accountprivacysettingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T20:35:10.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "gamerewardsController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\gamerewardsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\gamerewardsController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\gamerewardsController.cs",
+              "RelativeToolTip": "Controllers\\gamerewardsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T00:33:39.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "messagesController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\messagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\messagesController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\messagesController.cs",
+              "RelativeToolTip": "Controllers\\messagesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T00:52:11.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CampusCardController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\CampusCardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CampusCardController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\CampusCardController.cs",
+              "RelativeToolTip": "Controllers\\CampusCardController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwCEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T00:27:34.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "roomkeysController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\roomkeysController.cs",
+              "RelativeDocumentMoniker": "Controllers\\roomkeysController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\roomkeysController.cs",
+              "RelativeToolTip": "Controllers\\roomkeysController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T00:35:16.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "announcementsController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\announcementsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\announcementsController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\announcementsController.cs",
+              "RelativeToolTip": "Controllers\\announcementsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T00:58:33.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "cdnserverController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\cdnserverController.cs",
+              "RelativeDocumentMoniker": "Controllers\\cdnserverController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\cdnserverController.cs",
+              "RelativeToolTip": "Controllers\\cdnserverController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T01:17:53.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "playereventsController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\playereventsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\playereventsController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\playereventsController.cs",
+              "RelativeToolTip": "Controllers\\playereventsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T00:25:01.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "communityboard.json",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Jsons\\communityboard.json",
+              "RelativeDocumentMoniker": "Jsons\\communityboard.json",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Jsons\\communityboard.json",
+              "RelativeToolTip": "Jsons\\communityboard.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-21T00:19:05.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "communityboardController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\communityboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\communityboardController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\communityboardController.cs",
+              "RelativeToolTip": "Controllers\\communityboardController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T00:18:43.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "equipmentController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\equipmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\equipmentController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\equipmentController.cs",
+              "RelativeToolTip": "Controllers\\equipmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T00:13:30.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "consumablesController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\consumablesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\consumablesController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\consumablesController.cs",
+              "RelativeToolTip": "Controllers\\consumablesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T00:11:56.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "announcementController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\announcementController.cs",
+              "RelativeDocumentMoniker": "Controllers\\announcementController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\announcementController.cs",
+              "RelativeToolTip": "Controllers\\announcementController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T00:11:03.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "configv2.json",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Jsons\\configv2.json",
+              "RelativeDocumentMoniker": "Jsons\\configv2.json",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Jsons\\configv2.json",
+              "RelativeToolTip": "Jsons\\configv2.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-20T08:33:59.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "checklistController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\checklistController.cs",
+              "RelativeDocumentMoniker": "Controllers\\checklistController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\checklistController.cs",
+              "RelativeToolTip": "Controllers\\checklistController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:21:51.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "econController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\econController.cs",
+              "RelativeDocumentMoniker": "Controllers\\econController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\econController.cs",
+              "RelativeToolTip": "Controllers\\econController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:20:38.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "objectivesController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\objectivesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\objectivesController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\objectivesController.cs",
+              "RelativeToolTip": "Controllers\\objectivesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:18:56.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "playerReputationController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\playerReputationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\playerReputationController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\playerReputationController.cs",
+              "RelativeToolTip": "Controllers\\playerReputationController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T07:51:58.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "playersController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\playersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\playersController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\playersController.cs",
+              "RelativeToolTip": "Controllers\\playersController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T07:40:34.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "progression.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Data\\progression.cs",
+              "RelativeDocumentMoniker": "Data\\progression.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Data\\progression.cs",
+              "RelativeToolTip": "Data\\progression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T07:36:53.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PlayerReportingController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\PlayerReportingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlayerReportingController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\PlayerReportingController.cs",
+              "RelativeToolTip": "Controllers\\PlayerReportingController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T07:33:22.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "avatar.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Data\\avatar.cs",
+              "RelativeDocumentMoniker": "Data\\avatar.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Data\\avatar.cs",
+              "RelativeToolTip": "Data\\avatar.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T07:16:28.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "setting.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Data\\setting.cs",
+              "RelativeDocumentMoniker": "Data\\setting.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Data\\setting.cs",
+              "RelativeToolTip": "Data\\setting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T07:09:22.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "relationshipsController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\relationshipsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\relationshipsController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\relationshipsController.cs",
+              "RelativeToolTip": "Controllers\\relationshipsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T01:59:44.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "NotificationHub.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Hubs\\NotificationHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\NotificationHub.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Hubs\\NotificationHub.cs",
+              "RelativeToolTip": "Hubs\\NotificationHub.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T01:23:36.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "cachedloginController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\cachedloginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\cachedloginController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\cachedloginController.cs",
+              "RelativeToolTip": "Controllers\\cachedloginController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T21:57:57.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CachedLogin.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Data\\CachedLogin.cs",
+              "RelativeDocumentMoniker": "Data\\CachedLogin.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Data\\CachedLogin.cs",
+              "RelativeToolTip": "Data\\CachedLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T21:19:00.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "versioncheckController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\versioncheckController.cs",
+              "RelativeDocumentMoniker": "Controllers\\versioncheckController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\versioncheckController.cs",
+              "RelativeToolTip": "Controllers\\versioncheckController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T21:01:04.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "NameServerController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\NameServerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NameServerController.cs",
+              "ToolTip": "D:\\ASPNET\\Projects\\DeluxeNET\\Controllers\\NameServerController.cs",
+              "RelativeToolTip": "Controllers\\NameServerController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T18:56:12.702Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
